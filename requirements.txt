@@ -1,0 +1,52 @@
+# --- FastAPI & ASGI ---
+fastapi
+uvicorn
+python-multipart
+starlette
+pydantic
+country_list
+# --- File & PDF processing ---
+pdfplumber
+Pillow
+python-magic
+PyMuPDF
+poppler-utils
+pdf2image
+# --- Database ---
+pymongo
+beanie
+motor
+
+# --- Vector DB & LangChain ---
+chromadb
+langchain
+langchain-community
+langchain-huggingface
+langchain-ollama
+langchain-core
+sentence-transformers
+transformers
+torch
+rank-bm25
+langchain-chroma
+# --- Text processing & NLP ---
+nltk
+regex
+deep-translator
+langdetect
+huggingface_hub
+
+trio
+
+# --- Web scraping & crawling ---
+beautifulsoup4
+tldextract
+playwright
+requests
+
+# --- Utils ---
+tqdm
+sqlalchemy
+xgboost
+pytesseract
+deskew
